@@ -1,0 +1,5 @@
+Messenger   537 zhouzhijia   74u  IPv4 0xa06b90324b6b2351      0t0  TCP localhost:3103 (LISTEN)
+rapportd    542 zhouzhijia    5u  IPv4 0xa06b903246851939      0t0  TCP *:54599 (LISTEN)
+rapportd    542 zhouzhijia    6u  IPv6 0xa06b903241c30a61      0t0  TCP *:54599 (LISTEN)
+LINE        556 zhouzhijia   13u  IPv4 0xa06b903246decf21      0t0  TCP localhost:10400 (LISTEN)
+com.docke  1563 zhouzhijia   37u  IPv4 0xa06b903241c3ed69      0t0  TCP *:49897 (LISTEN)
